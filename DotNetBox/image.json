@@ -15,21 +15,21 @@
 	},
 	
 	"gallery": {
-		"subscription": "f9fcf631-fa8d-4ea2-8298-61b43220a3d1",
-		"resourceGroup": "ORG-CarmadaRnD",
-		"name": "CarmadaRnD"
+		"subscription": "5218ea22-3886-4b1e-899a-1af515f94899",
+		"resourceGroup": "devbox",
+		"name": "devBoxComputeGallery"
 	},
 	
 	"archive": {
-		"subscription": "f9fcf631-fa8d-4ea2-8298-61b43220a3d1",
-		"resourceGroup": "ORG-CarmadaRnD",
+		"subscription": "5218ea22-3886-4b1e-899a-1af515f94899",
+		"resourceGroup": "devbox",
 		"name": ""
 	},
 	
 	"devCenter": {
-		"subscription": "f9fcf631-fa8d-4ea2-8298-61b43220a3d1",
-		"resourceGroup": "ORG-CarmadaRnD",
-		"name": "CarmadaRnD",
+		"subscription": "5218ea22-3886-4b1e-899a-1af515f94899",
+		"resourceGroup": "devbox",
+		"name": "devBoxComputeGallery",
 		"compute": "general_i_8c32gb1024ssd_v2",
 		"storage": "ssd_1024gb"
 	},

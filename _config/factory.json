@@ -1,7 +1,7 @@
 {
 	"$schema": "../_schemas/factory.schema.json",
 
-	"subscription": "f9fcf631-fa8d-4ea2-8298-61b43220a3d1",
+	"subscription": "5218ea22-3886-4b1e-899a-1af515f94899",
 	"region": "West Europe",
-	"identity": "/subscriptions/bffe1654-7f9a-4630-b7b9-d24759a76222/resourceGroups/BLD-Carmada/providers/Microsoft.ManagedIdentity/userAssignedIdentities/Carmada"
+	"identity": "/subscriptions/5218ea22-3886-4b1e-899a-1af515f94899/resourceGroups/devbox/providers/Microsoft.ManagedIdentity/userAssignedIdentities/devbox-identity"
 }
