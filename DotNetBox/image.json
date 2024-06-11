@@ -16,19 +16,19 @@
 	
 	"gallery": {
 		"subscription": "5218ea22-3886-4b1e-899a-1af515f94899",
-		"resourceGroup": "devbox",
-		"name": "devBoxComputeGallery"
+		"resourceGroup": "devBoxPoc",
+		"name": "devBoxGallery"
 	},
 	
 	"archive": {
 		"subscription": "5218ea22-3886-4b1e-899a-1af515f94899",
-		"resourceGroup": "devbox",
+		"resourceGroup": "devBoxPoc",
 		"name": ""
 	},
 	
 	"devCenter": {
 		"subscription": "5218ea22-3886-4b1e-899a-1af515f94899",
-		"resourceGroup": "devbox",
+		"resourceGroup": "devBoxPoc",
 		"name": "devBoxPoc",
 		"compute": "general_i_8c32gb1024ssd_v2",
 		"storage": "ssd_1024gb"
