@@ -4,8 +4,6 @@ name: FACTORY-DISPATCH
 on:
   push:
     branches: [ "main" ]
-  schedule:
-    - cron: '0 0 * * *' # every day at midnight
   workflow_dispatch:
     
 jobs:
